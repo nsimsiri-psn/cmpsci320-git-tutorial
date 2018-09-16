@@ -10,5 +10,5 @@ if __name__ == "__main__":
     obj = Greeter("Bob")
     obj.greet("Peter");
 
-    obj = Greeter("AA")
-    obj.greet("BB");
+    obj = Greeter("A")
+    obj.greet("B");
