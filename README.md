@@ -1,7 +1,6 @@
-# Project Title - CMPSCI 320 GIT Tutorial
+# Project Title - CMPSCI 320 Git Tutorial
 
-One Paragraph of project description goes here. To make a fancy README Git uses Markdown. For more info visit https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-Thanks github.com/PurpleBooth for the README template.
+One Paragraph of project description goes here. To make a fancy README Git uses Markdown. For more info visit https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet. Thanks @PurpleBooth for the README template.
 
 ## Getting Started
 
